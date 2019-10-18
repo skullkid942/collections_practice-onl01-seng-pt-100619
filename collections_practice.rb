@@ -3,5 +3,6 @@ def sort_array_asc(array)
 end 
 
 def sort_array_desc(array)
-  array.collect {|element|
+  new_array = array.sort
+  return new_array.reverse
 end 

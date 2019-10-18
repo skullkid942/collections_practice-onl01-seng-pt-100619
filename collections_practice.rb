@@ -10,3 +10,24 @@ end
 def sort_array_char_count(array)
   
 end 
+
+def swap_elements(array)
+end 
+
+def reverse_array(array)
+  return array.reverse
+end 
+
+def kesha_maker(array)
+  
+end 
+
+def find_a(array)
+  array.select do |element|
+    element.start_with?("a")
+  end 
+end 
+
+def sum_array(array)
+  
+end 
